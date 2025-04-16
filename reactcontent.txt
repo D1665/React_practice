@@ -1,0 +1,6 @@
+day1=components , props,function 
+day2= hooks(usestate ),addingtailwindcss
+day3=form handling 
+day4=Api calling with Axios 
+day5= React router dom 
+day6=Context Api
